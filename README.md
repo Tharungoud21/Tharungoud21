@@ -18,22 +18,21 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/260c5add-2809-45c8-b038-e1ea013ed0b7/public_url" target="_blank">
-    <img src="aws-certified-cloud-practitioner (1).png" alt="AWS Badge 1" title="AWS Badge 1" width="70" height="70 />
+    <img src="aws-certified-cloud-practitioner (1).png" alt="AWS Badge 1" title="AWS Badge 1" width="100" height="100" />
   </a>
-  &nbsp;
  <a href="https://www.credly.com/badges/0e0c27fe-3d7a-492a-bb21-d41f6af21619/public_url" target="_blank">
-    <img src="aws-re-start-graduate.png" alt="AWS Badge 3" title="AWS Badge 3" />
+    <img src="aws-re-start-graduate.png" alt="AWS Badge 3" title="AWS Badge 3" width="100" height="100" />
   </a>
- &nbsp;
+
   <a href="https://www.credly.com/badges/33afc33e-5c73-478d-b89c-9b4dfbf199d0/public_url" target="_blank">
-    <img src="aws-academy-graduate-aws-academy-cloud-foundations (1).png" alt="AWS Badge 3" title="AWS Badge 3" />
+    <img src="aws-academy-graduate-aws-academy-cloud-foundations (1).png" alt="AWS Badge 3" title="AWS Badge 3" width="100" height="100" />
   </a>
- &nbsp;
+ 
  <a href="https://www.credly.com/badges/2afb236d-f728-41bc-b1ed-3c1bfa2d3503/public_url" target="_blank">
-    <img src="aws-academy-graduate-aws-academy-cloud-architecting (1).png" alt="AWS Badge 2" title="AWS Badge 2" />
+    <img src="aws-academy-graduate-aws-academy-cloud-architecting (1).png" alt="AWS Badge 2" title="AWS Badge 2" width="100" height="100" />
   </a>
-  &nbsp;
+  
  <a href="https://www.credly.com/badges/adc578d9-0c53-4dbe-ad0e-ab7adda175ab/public_url" target="_blank">
-    <img src="aws-academy-graduate-aws-academy-machine-learning-foundations (1).png" alt="AWS Badge 3" title="AWS Badge 3" />
+    <img src="aws-academy-graduate-aws-academy-machine-learning-foundations (1).png" alt="AWS Badge 3" title="AWS Badge 3" width="100" height="100" />
   </a>
 </p>
