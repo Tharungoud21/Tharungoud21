@@ -17,7 +17,7 @@
 ## 🏅 My AWS Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/260c5add-2809-45c8-b038-e1ea013ed0b7">
+  <a href="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="260c5add-2809-45c8-b038-e1ea013ed0b7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>">
     <img src="https://www.credly.com/badges/260c5add-2809-45c8-b038-e1ea013ed0b7/public_url" alt="AWS Badge 1" title="AWS Badge 1" />
   </a>
   &nbsp;
