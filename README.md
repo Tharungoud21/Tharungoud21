@@ -18,7 +18,7 @@
     <img src="aws-certified-cloud-practitioner (1).png" alt="AWS Badge 1"  width="120" height="120" />
   </a>
  <a href="https://www.credly.com/badges/0e0c27fe-3d7a-492a-bb21-d41f6af21619/public_url" target="_blank">
-    <img src="aws-re-start-graduate.png" alt="AWS Badge 3"  width="100" height="100" />
+    <img src="aws-re-start-graduate.png" alt="AWS Badge 3"  width="120" height="120" />
   </a>
 
   <a href="https://www.credly.com/badges/33afc33e-5c73-478d-b89c-9b4dfbf199d0/public_url" target="_blank">
