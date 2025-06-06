@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R Tharun Goud</h1>
-<h3 align="center">Artificial Intelligence Enthusiast,Passionate about coding, problem-solving, and building real-world applications.</h3>
+<h3 align="center">Passionate about coding, problem-solving, and building real-world applications.</h3>
  💼 All Projects are availabel at : https://github.com/Tharungoud21?tab=repositories<br>
  
  📫 How to reach me **tharungowdsaab@gmail.com**
