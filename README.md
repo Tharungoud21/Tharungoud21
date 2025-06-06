@@ -14,4 +14,18 @@
 
 <h3 align="left">🏅 Badges:</h3>
 
-<img src="https://github.com/Tharungoud21/My_Badges/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="python" width="150" height="150"/> <img src="https://github.com/Tharungoud21/My_Badges/blob/main/aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="python" width="150" height="150"/> <img src="https://github.com/Tharungoud21/My_Badges/blob/main/aws-academy-graduate-aws-academy-cloud-architecting.png" alt="python" width="150" height="150" /> </a> </p>
+## 🏅 My AWS Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/YOUR_BADGE_ID_1" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/YOUR_BADGE_IMAGE_1.png" alt="AWS Badge 1" title="AWS Badge 1" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/YOUR_BADGE_ID_2" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/YOUR_BADGE_IMAGE_2.png" alt="AWS Badge 2" title="AWS Badge 2" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/YOUR_BADGE_ID_3" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/YOUR_BADGE_IMAGE_3.png" alt="AWS Badge 3" title="AWS Badge 3" />
+  </a>
+</p>
